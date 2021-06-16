@@ -1,0 +1,35 @@
+[20-Oct-2019 13:48:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/functions/add-bed.php on line 14
+[20-Oct-2019 13:48:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/functions/add-bed.php on line 14
+[20-Oct-2019 13:48:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/functions/add-bed.php on line 14
+[20-Oct-2019 13:48:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/functions/add-bed.php on line 14
+[20-Oct-2019 13:49:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/functions/add-bed.php on line 14
+[20-Oct-2019 13:49:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/functions/add-bed.php on line 14
+[07-Nov-2019 05:27:49 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Nov-2019 05:27:49 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php56) in Unknown on line 0
+[07-Nov-2019 05:28:53 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Nov-2019 05:28:53 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php56) in Unknown on line 0
+[26-Jan-2020 07:21:07 Etc/GMT] PHP Notice:  Undefined variable: AxiNPR in /home/sgsphdbu/public_html/crmpanel/includes/db.php on line 2
+[26-Jan-2020 07:21:07 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sgsphdbu_admin'@'localhost' (using password: YES) in /home/sgsphdbu/public_html/crmpanel/includes/db.php on line 2
+[26-Jan-2020 07:21:09 Etc/GMT] PHP Notice:  Undefined variable: AxiNPR in /home/sgsphdbu/public_html/crmpanel/includes/db.php on line 2
+[26-Jan-2020 07:21:09 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sgsphdbu_admin'@'localhost' (using password: YES) in /home/sgsphdbu/public_html/crmpanel/includes/db.php on line 2
+[26-Jan-2020 07:21:10 Etc/GMT] PHP Notice:  Undefined variable: AxiNPR in /home/sgsphdbu/public_html/crmpanel/includes/db.php on line 2
+[26-Jan-2020 07:21:10 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sgsphdbu_admin'@'localhost' (using password: YES) in /home/sgsphdbu/public_html/crmpanel/includes/db.php on line 2
+[26-Jan-2020 07:21:12 Etc/GMT] PHP Notice:  Undefined variable: AxiNPR in /home/sgsphdbu/public_html/crmpanel/includes/db.php on line 2
+[26-Jan-2020 07:21:12 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sgsphdbu_admin'@'localhost' (using password: YES) in /home/sgsphdbu/public_html/crmpanel/includes/db.php on line 2
+[26-Jan-2020 07:38:13 Etc/GMT] PHP Notice:  Undefined variable: AxiNPR in /home/sgsphdbu/public_html/crmpanel/includes/db.php on line 2
+[26-Jan-2020 07:38:13 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'sgsphdbu_admin'@'localhost' (using password: YES) in /home/sgsphdbu/public_html/crmpanel/includes/db.php on line 2
+[26-Jan-2020 08:13:55 Etc/GMT] PHP Notice:  Undefined index: phone in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 18
+[26-Jan-2020 08:13:55 Etc/GMT] PHP Notice:  Undefined index: percent in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 19
+[26-Jan-2020 08:14:51 Etc/GMT] PHP Notice:  Undefined index: phone in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 18
+[26-Jan-2020 08:14:51 Etc/GMT] PHP Notice:  Undefined index: percent in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 19
+[30-Jan-2020 15:40:06 Etc/GMT] PHP Notice:  Undefined index: phone in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 18
+[30-Jan-2020 15:40:06 Etc/GMT] PHP Notice:  Undefined index: percent in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 19
+[31-Jan-2020 11:32:40 Etc/GMT] PHP Notice:  Undefined index: phone in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 18
+[31-Jan-2020 11:32:40 Etc/GMT] PHP Notice:  Undefined index: percent in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 19
+[23-Feb-2020 17:41:12 Etc/GMT] PHP Notice:  Undefined index: phone in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 18
+[23-Feb-2020 17:41:12 Etc/GMT] PHP Notice:  Undefined index: percent in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 19
+[28-Feb-2020 12:08:50 Etc/GMT] PHP Notice:  Undefined index: phone in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 18
+[28-Feb-2020 12:08:50 Etc/GMT] PHP Notice:  Undefined index: percent in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 19
+[28-Feb-2020 12:38:48 Etc/GMT] PHP Notice:  Undefined index: phone in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 18
+[28-Feb-2020 12:38:48 Etc/GMT] PHP Notice:  Undefined index: percent in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-patient.php on line 19
+[28-Feb-2020 12:47:08 Etc/GMT] PHP Notice:  Undefined variable: pass in /home/sgsphdbu/public_html/crmpanel/admin/functions/edit-ref-doc.php on line 14

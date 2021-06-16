@@ -1,0 +1,68 @@
+[12-Aug-2019 19:49:49 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 179 and defined in /home/wtf/public_html/hp/billing/bill.php on line 193
+[12-Aug-2019 19:50:17 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 179 and defined in /home/wtf/public_html/hp/billing/bill.php on line 193
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/wtf/public_html/hp/billing/bill.php on line 135
+[12-Aug-2019 20:04:10 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 196
+[12-Aug-2019 20:05:37 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 196
+[12-Aug-2019 20:06:24 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 196
+[13-Aug-2019 09:02:28 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 196
+[13-Aug-2019 09:06:11 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 196
+[13-Aug-2019 09:06:42 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 196
+[13-Aug-2019 09:18:19 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 196
+[13-Aug-2019 09:18:39 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 196
+[13-Aug-2019 09:19:12 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 194
+[13-Aug-2019 09:19:37 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, integer given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 194
+[13-Aug-2019 09:20:58 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, double given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 194
+[13-Aug-2019 09:21:00 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, double given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 194
+[13-Aug-2019 09:21:02 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of float, double given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 194
+[13-Aug-2019 09:21:29 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of double, double given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 194
+[13-Aug-2019 09:21:32 UTC] PHP Catchable fatal error:  Argument 1 passed to getIndianCurrency() must be an instance of double, double given, called in /home/wtf/public_html/hp/billing/bill.php on line 182 and defined in /home/wtf/public_html/hp/billing/bill.php on line 194
+[20-Oct-2019 10:42:53 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[20-Oct-2019 10:42:53 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[20-Oct-2019 10:42:53 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webtf/public_html/hp/billing/pay.php on line 83
+[20-Oct-2019 10:45:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/webtf/public_html/hp/billing/payment-details.php on line 23
+[20-Oct-2019 10:45:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/billing/payment-details.php on line 30
+[20-Oct-2019 10:58:12 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[20-Oct-2019 10:58:12 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[20-Oct-2019 10:58:12 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webtf/public_html/hp/billing/pay.php on line 83
+[20-Oct-2019 12:01:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/billing/voucher.php on line 8
+[20-Oct-2019 12:05:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/billing/voucher.php on line 8
+[20-Oct-2019 12:18:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/billing/voucher.php on line 8
+[20-Oct-2019 12:41:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/billing/voucher.php on line 8
+[20-Oct-2019 12:46:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/billing/voucher.php on line 8
+[20-Oct-2019 13:00:48 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[20-Oct-2019 13:00:48 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[20-Oct-2019 13:00:48 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webtf/public_html/hp/billing/pay.php on line 83
+[20-Oct-2019 13:06:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/billing/voucher.php on line 8
+[20-Oct-2019 13:10:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/billing/voucher.php on line 8
+[20-Oct-2019 14:08:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/billing/voucher.php on line 8
+[21-Oct-2019 04:02:57 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 04:02:57 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 04:02:57 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 07:16:56 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 07:16:56 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 07:16:56 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 07:49:30 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 07:49:30 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 07:49:30 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 07:55:58 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 07:55:58 UTC] PHP Warning:  include(../includes/header.php): failed to open stream: No such file or directory in /home/webtf/public_html/hp/billing/pay.php on line 83
+[21-Oct-2019 07:55:58 UTC] PHP Warning:  include(): Failed opening '../includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/webtf/public_html/hp/billing/pay.php on line 83
+[07-Nov-2019 05:26:27 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Nov-2019 05:26:27 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php56) in Unknown on line 0
+[07-Nov-2019 05:28:19 UTC] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[07-Nov-2019 05:28:19 UTC] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/cpanel/php/sessions/ea-php56) in Unknown on line 0

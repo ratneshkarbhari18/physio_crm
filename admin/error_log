@@ -1,0 +1,32 @@
+[16-Oct-2019 11:49:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 9
+[16-Oct-2019 11:49:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 11
+[16-Oct-2019 11:49:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 12
+[16-Oct-2019 11:49:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 9
+[16-Oct-2019 11:49:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 11
+[16-Oct-2019 11:49:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 12
+[16-Oct-2019 11:56:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 9
+[16-Oct-2019 11:56:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 11
+[16-Oct-2019 11:56:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 12
+[16-Oct-2019 11:56:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 9
+[16-Oct-2019 11:56:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 11
+[16-Oct-2019 11:56:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 12
+[16-Oct-2019 11:56:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 9
+[16-Oct-2019 11:56:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 11
+[16-Oct-2019 11:56:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/dashboard.php on line 12
+[20-Oct-2019 13:03:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/add-bedmaster.php on line 8
+[20-Oct-2019 13:48:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/add-bedmaster.php on line 8
+[20-Oct-2019 14:00:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/add-bedmaster.php on line 8
+[20-Oct-2019 14:03:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/add-bedmaster.php on line 8
+[20-Oct-2019 14:04:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/add-bedmaster.php on line 8
+[20-Oct-2019 14:04:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/add-bedmaster.php on line 8
+[20-Oct-2019 14:05:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/add-bedmaster.php on line 8
+[20-Oct-2019 14:05:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/webtf/public_html/hp/admin/add-bedmaster.php on line 8
+[07-Nov-2019 [26-Jan-2020 08:15:22 Etc/GMT] PHP Notice:  Undefined index: admin_name in /home/sgsphdbu/public_html/crmpanel/admin/includes/sidebar.php on line 17
+[26-Jan-2020 11:44:34 Etc/GMT] PHP Notice:  Undefined variable: row in /home/sgsphdbu/public_html/crmpanel/admin/add-refered-dr.php on line 50
+[26-Jan-2020 12:34:01 Etc/GMT] PHP Notice:  Undefined variable: row in /home/sgsphdbu/public_html/crmpanel/admin/add-refered-dr.php on line 50
+[28-Feb-2020 12:45:59 Etc/GMT] PHP Notice:  Undefined variable: row in /home/sgsphdbu/public_html/crmpanel/admin/add-refered-dr.php on line 50
+[13-Aug-2020 22:19:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/admin/dashboard.php on line 9
+[21-May-2021 06:52:00 UTC] PHP Fatal error:  Cannot redeclare get_treatment() (previously declared in /home/sgsphdbu/public_html/crmpanel/test/includes/db.php:4) in /home/sgsphdbu/public_html/crmpanel/test/includes/db.php on line 4
+[21-May-2021 06:52:00 UTC] PHP Fatal error:  Cannot redeclare get_treatment() (previously declared in /home/sgsphdbu/public_html/crmpanel/test/includes/db.php:4) in /home/sgsphdbu/public_html/crmpanel/test/includes/db.php on line 4
+[21-May-2021 06:52:07 UTC] PHP Fatal error:  Cannot redeclare get_treatment() (previously declared in /home/sgsphdbu/public_html/crmpanel/test/includes/db.php:4) in /home/sgsphdbu/public_html/crmpanel/test/includes/db.php on line 4
+[21-May-2021 13:04:53 UTC] PHP Fatal error:  Cannot redeclare get_treatment() (previously declared in /home/sgsphdbu/public_html/crmpanel/test/includes/db.php:4) in /home/sgsphdbu/public_html/crmpanel/test/includes/db.php on line 4

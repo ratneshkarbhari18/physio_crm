@@ -1,0 +1,24 @@
+[26-Jan-2020 11:08:05 Etc/GMT] PHP Notice:  Undefined index: log_id in /home/sgsphdbu/public_html/crmpanel/consultant/dashboard.php on line 6
+[26-Jan-2020 11:08:05 Etc/GMT] PHP Notice:  Undefined index: doctor_id in /home/sgsphdbu/public_html/crmpanel/consultant/dashboard.php on line 7
+[26-Jan-2020 11:08:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/consultant/dashboard.php on line 9
+[26-Jan-2020 11:08:05 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/consultant/dashboard.php on line 13
+[26-Jan-2020 11:08:05 Etc/GMT] PHP Notice:  Undefined index: doctor_name in /home/sgsphdbu/public_html/crmpanel/consultant/includes/sidebar.php on line 17
+[24-Feb-2020 10:59:25 Etc/GMT] PHP Notice:  Undefined index: doctor_name in /home/sgsphdbu/public_html/crmpanel/consultant/includes/sidebar.php on line 17
+[24-Feb-2020 10:59:25 Etc/GMT] PHP Notice:  Undefined index: doctor_id in /home/sgsphdbu/public_html/crmpanel/consultant/add-report.php on line 83
+[24-Feb-2020 10:59:25 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/consultant/add-report.php on line 85
+[20-Jun-2020 07:12:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/consultant/add-report.php on line 85
+[02-Sep-2020 10:15:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/consultant/add-report.php on line 85
+[02-Sep-2020 10:25:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/consultant/dashboard.php on line 9
+[02-Sep-2020 10:25:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/consultant/dashboard.php on line 13
+[12-Oct-2020 14:05:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/consultant/dashboard.php on line 9
+[12-Oct-2020 14:05:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/consultant/dashboard.php on line 13
+[17-Jan-2021 18:35:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/test/consultant/dashboard.php on line 9
+[17-Jan-2021 18:35:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/test/consultant/dashboard.php on line 13
+[17-Jan-2021 18:35:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/test/consultant/dashboard.php on line 9
+[17-Jan-2021 18:35:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/test/consultant/dashboard.php on line 13
+[17-Jan-2021 18:55:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/test/consultant/dashboard.php on line 9
+[17-Jan-2021 18:55:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/test/consultant/dashboard.php on line 13
+[17-Jan-2021 18:55:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/test/consultant/dashboard.php on line 9
+[17-Jan-2021 18:55:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/test/consultant/dashboard.php on line 13
+[17-Jan-2021 20:34:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/test/consultant/dashboard.php on line 9
+[17-Jan-2021 20:34:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/sgsphdbu/public_html/crmpanel/test/consultant/dashboard.php on line 13
